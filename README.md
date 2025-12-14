@@ -115,7 +115,7 @@ Additional previews and themes are available under `.previews/`.
 - [Waybar](https://github.com/Alexays/Waybar)
 
 _The Spectral-Horizon theme is forked from end4 dotfiles, with modifications for privacy and performance._
-
+> Additional Note: I do not use this configuration anymore. Also you might have a look at [aelyx-shell](https://github.com/xZepyx/aelyx-shell)
 ---
 
 ## License
