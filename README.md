@@ -53,15 +53,6 @@ Additional setup guidance can be found in docs or script comments.
 
 ---
 
-## Recommended Environment
-
-- **GTK Theme:** Dark, minimalist (for optimal visual consistency)
-- **Fonts:** FiraCode, JetBrainsMono, or comparable monospaced fonts
-- **Icons:** Papirus, Tela, or similar icon sets
-- **Terminal Colors:** Solarized Dark, Gruvbox
-
----
-
 ## Screenshots
 
 ### Quiet-Fracture
@@ -104,15 +95,6 @@ Additional previews and themes are available under `.previews/`.
 - **Email:** [zepyxunderscore@gmail.com](mailto:zepyxunderscore@gmail.com)
 
 ---
-
-## Acknowledgments
-
-- [Hyprland](https://github.com/hyprwm/hyprland)
-- [Quickshell](https://github.com/quickshell-mirror/quickshell)
-- [Ignis Project](https://github.com/ignis-sh/ignis)
-- [Rofi](https://github.com/davatorium/rofi)
-- [Eww](https://elkowar.github.io/eww/)
-- [Waybar](https://github.com/Alexays/Waybar)
 
 _The Spectral-Horizon theme is forked from end4 dotfiles, with modifications for privacy and performance._
 > Additional Note: I do not use this configuration anymore. Also you might have a look at [aelyx-shell](https://github.com/xZepyx/aelyx-shell)
