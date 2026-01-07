@@ -19,6 +19,8 @@ A robust, high-performance Hyprland configuration, focused on workflow efficienc
 
 **HyprZepyx** delivers a modular, modern Hyprland setup, designed for users prioritizing speed, system clarity, and clean screens. The repository is frequently updated and structured for maintainability and ease of adjustment, supporting multiple color schemes and minimal distractions.
 
+> Additional Note: I do not use this configuration anymore. Also you might have a look at [nucleus-shell](https://github.com/xZepyx/nucleus-shell)
+
 ---
 
 ## Features
@@ -97,7 +99,7 @@ Additional previews and themes are available under `.previews/`.
 ---
 
 _The Spectral-Horizon theme is forked from end4 dotfiles, with modifications for privacy and performance._
-> Additional Note: I do not use this configuration anymore. Also you might have a look at [aelyx-shell](https://github.com/xZepyx/aelyx-shell)
+
 ---
 
 ## License
