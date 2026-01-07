@@ -10,6 +10,7 @@ packages=(
     "git"
     "gum"    
     "hyprland"
+    "hyprpaper"
     "wf-recorder"
     "waybar"
     "grim"
