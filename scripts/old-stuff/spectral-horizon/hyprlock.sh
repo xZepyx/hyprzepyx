@@ -4,4 +4,4 @@
 wallpath=$(swww query | grep -oP 'image: \K.*')
 sed -i "s|^ *path = .*|    path = $wallpath|" ~/.config/hypr/hyprlock.conf
 
-sleep 0.1 && hyprlock
+sleep 0.8 && hyprlock
